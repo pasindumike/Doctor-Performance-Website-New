@@ -123,14 +123,16 @@ Best Practices for GitHub Usage
 
 This project adheres to the most standard approaches in web development and version control practices found in the professional industry:
 
-Web Development Standards
+🔹Web Development Standards
+
 This project applies the cutting-edge standards of HTML5 and CSS3 for building web structure and design.
 
 Responsive Design: Ensures a seamless experience on different screen sizes.
 
 SEO Best Practices: Follows semantic HTML for better search engine rankings.
 
-Git & Version Control Compliance
+🔹Git & Version Control Compliance
+
 The project utilizes Git for an effective version tracking mechanism which acts as a Versioning System.
 
 Remote Repository Management: Uses GitHub for cloud-based version control.
