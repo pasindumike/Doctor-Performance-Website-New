@@ -94,15 +94,18 @@ Clone the repository (if not already done)
 
 sh
 git clone https://github.com/pasindumike/Doctor-Performance-Website-New.git
+
 Pull the latest updates before making changes
 
 sh
 git pull origin main
+
 Make necessary changes and commit them
 
 sh
 git add .
 git commit -m "Updated website content"
+
 Push changes back to GitHub
 
 sh
