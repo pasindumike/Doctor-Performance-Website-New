@@ -1,5 +1,4 @@
 # Doctor-Performance-Website-New
-# Doctor Performance - Fitness Coaching Website
 
 ## 🚀 Project Overview
 This is a simple single-page website for "Doctor Performance," a fitness coaching app. It is built using **HTML5** and **CSS3** and hosted on **GitHub Pages**.
