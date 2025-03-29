@@ -15,7 +15,7 @@ This is a simple single-page website for "Doctor Performance," a fitness coachin
    git clone https://github.com/YOUR_GITHUB_USERNAME/doctor-performance-website.git
 
   
-📜 Industry Standards Evaluation
+📜 Industry Standards Evaluation: 
 This project follows web development best practices:
 ✅ Uses HTML5 & CSS3 for modern web structure
 ✅ Responsive design for all devices
