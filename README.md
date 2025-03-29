@@ -1,34 +1,64 @@
 # Doctor-Performance-Website-New
 
-## 🚀 Project Overview
-This is a simple single-page website for "Doctor Performance," a fitness coaching website. It is built using **HTML5** and **CSS3** and hosted on **GitHub Pages**.
+1. Project Overview
+About the Project
+The Doctor Performance website functions as a solo HTML and CSS website which delivers an online platform for fitness coaching services to users. This page functions as a destination for users to acquire information regarding fitness programs along with coaching services and associated health benefits.
 
-## 📂 Project Structure
+Objectives
+Construct a quick-to-load website that uses only HTML and CSS elements.
+
+The website should be hosted easily on GitHub Pages for overall accessibility purposes.
+
+The application implements Git and GitHub platforms to support best practices in version control.
+
+The system should provide detailed documentation which benefits team members during collaborative work.
+
+2. Live Website
+View the Live Website Here
+https://pasindumike.github.io/Doctor-Performance-Website-New/
+
+GitHub Repository
+https://github.com/pasindumike/Doctor-Performance-Website-New
+
+The website operates under GitHub Pages to provide free accessibility to users worldwide.
+
+
+## Project Structure
 - `index.html` → Main webpage  
 - `style.css` → Stylesheet for design  
-- `.gitignore` → Hides unnecessary files in Git  
+- `.gitignore` → Hides unnecessary files in Git
 
-## 🛠️ Installation & Running
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/doctor-performance-website.git
+File Descriptions
+index.html: The main file that structures the website’s content using HTML5.
 
-  
-📜 Industry Standards Evaluation: 
-This project follows web development best practices:
-✅ Uses HTML5 & CSS3 for modern web structure
-✅ Responsive design for all devices
-✅ Version control using Git & GitHub
-❌ No JavaScript yet (could be added for interactivity)
+style.css: Defines the visual styling of the website using CSS3.
 
-🌐 Live Website
+README.md: This documentation file.
 
+4. Installation and Setup
+To set up and modify the project locally, follow these steps:
 
----
+🔹 Step 1: Clone the Repository
+Run the following command in your terminal to download the project:
 
-### **Once you finish:**
-- Save the file and **commit** it to your GitHub repo:  
-   ```sh
-   git add README.md
-   git commit -m "Added README.md with project details"
-   git push origin main
+sh
+Copy
+Edit
+git clone https://github.com/pasindumike/Doctor-Performance-Website-New.git
+🔹 Step 2: Navigate to the Project Folder
+sh
+Copy
+Edit
+cd Doctor-Performance-Website-New
+🔹 Step 3: Open the Project in a Code Editor
+Use any code editor like:
+
+Visual Studio Code (VS Code) (code . in terminal)
+
+Sublime Text
+
+Notepad++
+
+🔹 Step 4: Open in Browser
+Simply double-click the index.html file to open it in your default web browser.
+
