@@ -112,8 +112,11 @@ sh
 git push origin main
 
 Best Practices for GitHub Usage
+
 🔹Tracking progress needs frequent commit practices when developers maintain small change deposits.
+
 🔹All changes need distinct descriptions in their commit messages.
+
 🔹Major updates require their own dedicated branches according to this strategy rather than direct modifications on main.
 
 7. Industry Standards and Compliance
@@ -169,6 +172,8 @@ sh
 git add README.md
 git commit -m "Added project documentation"
 git push origin main
+
+
 This ensures your documentation is available in the repository.
 
 
