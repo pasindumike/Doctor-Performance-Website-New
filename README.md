@@ -1,6 +1,7 @@
 # Doctor-Performance-Website-New
 
 1. Project Overview
+
 About the Project
 The Doctor Performance website functions as a solo HTML and CSS website which delivers an online platform for fitness coaching services to users. This page functions as a destination for users to acquire information regarding fitness programs along with coaching services and associated health benefits.
 
@@ -14,6 +15,7 @@ The application implements Git and GitHub platforms to support best practices in
 The system should provide detailed documentation which benefits team members during collaborative work.
 
 2. Live Website
+
 View the Live Website Here
 https://pasindumike.github.io/Doctor-Performance-Website-New/
 
@@ -42,14 +44,11 @@ To set up and modify the project locally, follow these steps:
 Run the following command in your terminal to download the project:
 
 sh
-Copy
-Edit
 git clone https://github.com/pasindumike/Doctor-Performance-Website-New.git
 
 🔹 Step 2: Navigate to the Project Folder
+
 sh
-Copy
-Edit
 cd Doctor-Performance-Website-New
 
 🔹 Step 3: Open the Project in a Code Editor
@@ -65,6 +64,7 @@ Notepad++
 Simply double-click the index.html file to open it in your default web browser.
 
 5. How to Use
+
 Edit the HTML or CSS Files
 
 Modify index.html to update the website’s structure and content.
@@ -80,41 +80,32 @@ Push Changes to GitHub
 After modifications, commit and push changes using:
 
 sh
-Copy
-Edit
 git add .
 git commit -m "Updated content"
 git push origin main
 
 
 6. Version Control and Best Practices
+
 This project follows Git-based version control to track all changes and manage collaboration efficiently.
 
 🔹 Git Workflow for Updates
 Clone the repository (if not already done)
 
 sh
-Copy
-Edit
 git clone https://github.com/pasindumike/Doctor-Performance-Website-New.git
 Pull the latest updates before making changes
 
 sh
-Copy
-Edit
 git pull origin main
 Make necessary changes and commit them
 
 sh
-Copy
-Edit
 git add .
 git commit -m "Updated website content"
 Push changes back to GitHub
 
 sh
-Copy
-Edit
 git push origin main
 
 Best Practices for GitHub Usage
@@ -123,6 +114,7 @@ Best Practices for GitHub Usage
 🔹Major updates require their own dedicated branches according to this strategy rather than direct modifications on main.
 
 7. Industry Standards and Compliance
+
 This project adheres to the most standard approaches in web development and version control practices found in the professional industry:
 
 Web Development Standards
@@ -140,6 +132,7 @@ Remote Repository Management: Uses GitHub for cloud-based version control.
 The system enables multiple users to collaborate because it supports pull request features and issue tracking mechanisms.
 
 8. Strengths and Limitations
+
 🔹 Strengths
 HTML and CSS only produce a platform which performs well and loads quickly because of its lightweight nature.
 The system maintains easy maintenance without depending on backend structure and complex framework elements.
@@ -152,11 +145,13 @@ Changes to the website require users to commit Git changes followed by a push ac
 Static Content – No dynamic user interactions without JavaScript.
 
 9. Conclusion
+
 The Doctor Performance website functions as a clean fitness coaching platform with efficient features and responsive design built from HTML and CSS features. The platform adopts GitHub to provide version control and hosting which enables users to maintain and access the system easily.
 
 This project implements industry-accepted standards which establish future development possibilities by enabling JavaScript applications or backend implementation. 🚀
 
 ✅ Next Steps
+
 The design needs animation features and transition effects that should be implemented.
 
 Add JavaScript code to your project for dealing with interactive elements that include forms and pop-ups.
@@ -168,8 +163,6 @@ Final Step: Upload README.md to GitHub
 After adding this documentation, upload it using:
 
 sh
-Copy
-Edit
 git add README.md
 git commit -m "Added project documentation"
 git push origin main
