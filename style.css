@@ -7,19 +7,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Hero Section */
-.hero {
-    width: 10%;
-    height: 60px;  /* Adjusted height */
-    overflow: hidden;
-}
-
-.hero-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;  /* This ensures the image covers the section */
-}
-
 /* Content Section */
 .content {
     padding: 20px;
