@@ -61,30 +61,37 @@ h2 {
     color: #ff6600;
 }
 
-/* Image Gallery */
-#gallery .gallery-images {
+/* Gallery Section */
+#gallery {
+    background-color: #f4f4f4;
+    padding: 50px 20px;
+}
+
+.gallery-images {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
 
-#gallery .gallery-images img {
+.gallery-images img {
     width: 300px;
     height: 300px;
     object-fit: cover;
     border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Instagram Section */
 #instagram {
-    background-color: #f8f8f8;
+    background-color: #f4f4f4;
     padding: 50px 20px;
 }
 
 #instagram .btn {
-    background: #3b5998; /* Instagram color */
+    background: #e1306c; /* Instagram's color */
+    color: white;
 }
 
 #instagram .btn:hover {
-    background: #2d4373;
+    background: #c13584; /* Instagram hover color */
 }
